@@ -1,0 +1,196 @@
+DNo DefinidoDDNo DefinidoDSNo DefinidoSSNo DefinidoSINo DefinidoISNo DefinidoSINo DefinidoISNo DefinidoSINo DefinidoIENo DefinidoEINo DefinidoIWNo DefinidoWINo DefinidoIANo DefinidoAEspacioNo DefinidoEspacioSNo DefinidoSSNo DefinidoSEscapeIntroNo DefinidoIntroKNo DefinidoKJNo DefinidoJJNo DefinidoJ7No Definido77No Definido78No Definido8EspacioNo DefinidoEspacioBloqueo de MayúsculasNo DefinidoBloqueo de MayúsculasBloqueo de MayúsculasNo DefinidoBloqueo de MayúsculasComilla InvertidaNo DefinidoComilla InvertidaEscapeD
+No Definido
+D
+Intro
+No Definido
+Intro
+W
+No Definido
+E
+No Definido
+W
+E
+Intro
+No Definido
+Intro
+Espacio
+No Definido
+Espacio
+Intro
+No Definido
+Intro
+W
+No Definido
+W
+9
+No Definido
+9
+Intro
+No Definido
+Intro
+2
+No Definido
+2
+Paréntesis de Apertura
+No Definido
+Paréntesis de Apertura
+Menos
+No Definido
+Menos
+Paréntesis de Cierre
+No Definido
+Paréntesis de Cierre
+Desconocido keyCode: 0xe36
+No Definido
+Paréntesis de Cierre
+No Definido
+Paréntesis de Cierre
+Desconocido keyCode: 0xe36
+Barra
+No Definido
+Barra
+Punto
+No Definido
+Punto
+Coma
+No Definido
+Coma
+M
+No Definido
+M
+N
+No Definido
+N
+X
+No Definido
+X
+O
+No Definido
+W
+No Definido
+I
+No Definido
+Q
+No Definido
+O
+I
+O
+No Definido
+Q
+W
+I
+No Definido
+O
+W
+No Definido
+O
+No Definido
+I
+Q
+No Definido
+W
+I
+No Definido
+O
+Q
+I
+E
+No Definido
+W
+No Definido
+I
+No Definido
+I
+W
+0
+No Definido
+9
+No Definido
+0
+W
+No Definido
+E
+E
+No Definido
+0
+No Definido
+0
+9
+W
+K
+No Definido
+K
+E
+0
+No Definido
+J
+No Definido
+0
+S
+No Definido
+D
+No Definido
+J
+0
+No Definido
+S
+9
+No Definido
+D
+U
+No Definido
+0
+9
+U
+W
+No Definido
+Q
+No Definido
+9
+No Definido
+0
+No Definido
+0
+9
+Q
+W
+W
+No Definido
+W
+Q
+No Definido
+W
+No Definido
+Q
+W
+N
+No Definido
+N
+E
+No Definido
+E
+A
+No Definido
+A
+R
+No Definido
+R
+Intro
+No Definido
+Intro
+Retroceso
+No Definido
+Retroceso
+Suprimir
+No Definido
+Suprimir
+Imprimir Pantalla
+No Definido
+Imprimir Pantalla
+Insertar
+No Definido
+Insertar
+Insertar
+No Definido
+Insertar
+Escape
