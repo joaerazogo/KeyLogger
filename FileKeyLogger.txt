@@ -1,15 +1,69 @@
-DNo DefinidoDDNo DefinidoDSNo DefinidoSSNo DefinidoSINo DefinidoISNo DefinidoSINo DefinidoISNo DefinidoSINo DefinidoIENo DefinidoEINo DefinidoIWNo DefinidoWINo DefinidoIANo DefinidoAEspacioNo DefinidoEspacioSNo DefinidoSSNo DefinidoSEscapeIntroNo DefinidoIntroKNo DefinidoKJNo DefinidoJJNo DefinidoJ7No Definido77No Definido78No Definido8EspacioNo DefinidoEspacioBloqueo de MayúsculasNo DefinidoBloqueo de MayúsculasBloqueo de MayúsculasNo DefinidoBloqueo de MayúsculasComilla InvertidaNo DefinidoComilla InvertidaEscapeD
+W
+No Definido
+W
+Q
+No Definido
+Q
+Retroceso
+No Definido
+Retroceso
+Retroceso
+No Definido
+Retroceso
+Ctrl
+No Definido
+S
+No Definido
+S
+Ctrl
+E
+No Definido
+E
+O
+No Definido
+O
+W
+No Definido
+W
+9
+No Definido
+9
+2
+
+
+O
+No Definido
+O
+W
+No Definido
+W
+Intro
+No Definido
+Intro
+W
+No Definido
+Q
+No Definido
+W
+O
+No Definido
+Q
+O
+W
+No Definido
+W
+Intro
+No Definido
+Intro
+D
 No Definido
 D
-Intro
+S
 No Definido
-Intro
-W
+D
 No Definido
-E
-No Definido
-W
-E
+D
+S
 Intro
 No Definido
 Intro
@@ -19,178 +73,357 @@ Espacio
 Intro
 No Definido
 Intro
+Q
+No Definido
 W
 No Definido
+Q
+O
+No Definido
+O
 W
 9
 No Definido
 9
-Intro
+2
 No Definido
-Intro
+0
+No Definido
+2
+0
 2
 No Definido
 2
-Paréntesis de Apertura
-No Definido
-Paréntesis de Apertura
-Menos
-No Definido
-Menos
-Paréntesis de Cierre
-No Definido
-Paréntesis de Cierre
-Desconocido keyCode: 0xe36
-No Definido
-Paréntesis de Cierre
-No Definido
-Paréntesis de Cierre
-Desconocido keyCode: 0xe36
-Barra
-No Definido
-Barra
-Punto
-No Definido
-Punto
-Coma
-No Definido
-Coma
-M
-No Definido
-M
-N
-No Definido
-N
-X
-No Definido
-X
-O
-No Definido
-W
-No Definido
-I
-No Definido
-Q
-No Definido
-O
-I
-O
-No Definido
-Q
-W
-I
-No Definido
-O
-W
-No Definido
-O
-No Definido
-I
-Q
-No Definido
-W
-I
-No Definido
-O
-Q
-I
-E
-No Definido
-W
-No Definido
-I
-No Definido
-I
-W
-0
-No Definido
-9
-No Definido
-0
-W
-No Definido
-E
-E
-No Definido
 0
 No Definido
 0
-9
-W
-K
-No Definido
-K
-E
-0
-No Definido
-J
-No Definido
-0
-S
-No Definido
-D
-No Definido
-J
-0
-No Definido
-S
-9
-No Definido
-D
-U
-No Definido
-0
-9
-U
-W
-No Definido
-Q
-No Definido
-9
-No Definido
-0
-No Definido
-0
-9
-Q
-W
-W
-No Definido
-W
-Q
-No Definido
-W
-No Definido
-Q
-W
-N
-No Definido
-N
-E
-No Definido
-E
-A
-No Definido
-A
-R
-No Definido
-R
 Intro
 No Definido
 Intro
+O
+No Definido
+S
+No Definido
+O
+S
+O
+No Definido
+O
+A
+No Definido
+S
+No Definido
+A
+S
+A
+No Definido
+S
+No Definido
+A
+S
+O
+No Definido
+A
+No Definido
+O
+S
+No Definido
+A
+O
+No Definido
+O
+S
+P
+No Definido
+P
+Escape
+O
+No Definido
+O
+E
+No Definido
+O
+No Definido
+E
+W
+No Definido
+O
+W
+Intro
+No Definido
+Intro
+Espacio
+No Definido
+Espacio
+Espacio
+No Definido
+Espacio
+W
+No Definido
+P
+No Definido
+W
+P
+Q
+No Definido
+W
+No Definido
+P
+No Definido
+Q
+O
+No Definido
+P
+O
+W
+Intro
+No Definido
+Intro
+O
+No Definido
+E
+No Definido
+O
+E
+O
+No Definido
+E
+No Definido
+E
+W
+No Definido
+E
+No Definido
+W
+O
+E
+W
+No Definido
+W
+Intro
+No Definido
+Intro
+O
+No Definido
+Q
+No Definido
+O
+W
+No Definido
+Q
+Q
+No Definido
+P
+No Definido
+W
+P
+O
+No Definido
+W
+No Definido
+O
+Q
+I
+No Definido
+O
+No Definido
+O
+W
+I
+W
+No Definido
+Intro
+No Definido
+Intro
+W
+Espacio
+No Definido
+C
+No Definido
+Espacio
+C
+C
+No Definido
+Espacio
+No Definido
+C
+Espacio
+C
+No Definido
+C
+E
+No Definido
+O
+No Definido
+I
+No Definido
+O
+I
+E
+O
+No Definido
+O
+Escape
+L
+No Definido
+L
 Retroceso
 No Definido
 Retroceso
-Suprimir
+Ctrl
 No Definido
-Suprimir
+S
+No Definido
+Ctrl
+S
+O
+No Definido
+O
+K
+No Definido
+K
+F
+No Definido
+F
+Intro
+No Definido
+Intro
+K
+No Definido
+K
+Espacio
+No Definido
+Espacio
+Espacio
+No Definido
+Espacio
+Espacio
+No Definido
+Espacio
+Espacio
+No Definido
+Espacio
+Espacio
+No Definido
+Espacio
+3
+No Definido
+3
+3
+No Definido
+3
+3
+No Definido
+3
+3
+No Definido
+3
+Comilla Invertida
+No Definido
+Comilla Invertida
+P
+No Definido
+P
+S
+No Definido
+Z
+No Definido
+S
+Z
+Paréntesis de Apertura
+No Definido
+Paréntesis de Apertura
+A
+No Definido
+A
+O
+No Definido
+O
+O
+No Definido
+O
+O
+No Definido
+O
+P
+No Definido
+P
+Paréntesis de Cierre
+No Definido
+Paréntesis de Cierre
+Intro
+No Definido
+Intro
+K
+No Definido
+K
+Espacio
+No Definido
+Espacio
+Espacio
+No Definido
+Espacio
+Intro
+No Definido
+Intro
+Ctrl
+No Definido
+Ctrl
+Bloqueo de Mayúsculas
+No Definido
+Bloqueo de Mayúsculas
+Intro
+No Definido
+Mayús
+No Definido
+Intro
+Mayús
+Bloqueo de Mayúsculas
+No Definido
+Bloqueo de Mayúsculas
+AvPág
+No Definido
+AvPág
+Fin
+No Definido
+Fin
+Inicio
+No Definido
+Inicio
 Imprimir Pantalla
 No Definido
 Imprimir Pantalla
-Insertar
+Abajo
 No Definido
-Insertar
-Insertar
+Abajo
+AvPág
 No Definido
-Insertar
+AvPág
+AvPág
+No Definido
+AvPág
+AvPág
+No Definido
+AvPág
+AvPág
+No Definido
+AvPág
+AvPág
+No Definido
+AvPág
+AvPág
+No Definido
+AvPág
+Punto y coma
+No Definido
+Punto y coma
+E
+No Definido
+W
+No Definido
+E
+P
+No Definido
+W
+P
 Escape
